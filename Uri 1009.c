@@ -8,12 +8,4 @@ int main()
 
   TOTAL = a+((b*15)/100);
   printf("TOTAL = %f\n",TOTAL);
-
-
-
-
-
-
-
-
 }
